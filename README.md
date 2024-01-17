@@ -17,10 +17,10 @@ Se realizo un trabajo de extraccion y tratamiento de los datos donde se tuvo en 
 Se realizo un analisis exploratorio de datos previo donde pudimos observar como se comportaban las variables a travez de graficos estadistico 
 ### Link : https://github.com/felipe97rg/PI02_DA/blob/master/EDA.ipynb.
 
-Dashboard
+## Dashboard
 
 Se realizo un Dashboard interactivo en la herramienta PowerBI, done podremos observar las graficas y el comportamiento de los 
-### Link :
+### Link :https://github.com/felipe97rg/PI02_DA/blob/master/Dashboard.pbix
 Gaficaremos dos KPIs propuestos:
 
     Reducción del 10% en la tasa de homicidios en siniestros viales en los últimos seis meses, en comparación con el semestre anterior.
